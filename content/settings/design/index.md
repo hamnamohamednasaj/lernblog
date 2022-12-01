@@ -2,6 +2,6 @@
 headless = true
 icon = "/img/default-favicon.png"
 logo = "/img/default-logo.png"
-image = "/media/forest-3622519_1280-1-.jpg"
+image = "/media/r-1-2-.jpeg"
 color = "#5d9fbd"
 +++
