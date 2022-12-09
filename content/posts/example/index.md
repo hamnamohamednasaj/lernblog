@@ -3,13 +3,13 @@ title = "Integration - ein Fremdwort für ehemalige Flüchtlingsfrauen?"
 date = "2022-12-01"
 draft = false
 pinned = true
-tags = ["Flüchtlinge", "Integration", "Frauen", "Schule", "Reportage"]
+tags = ["Schule", "Deutsch", "Reportage", "Flüchtlinge", "Integration", "Frauen"]
 image = "heimat.jpeg"
 description = ""
 footnotes = "Autorinnen: Azziya Anwar und Hamna Mohamed Nasaj"
 +++
 {{<lead>}}\
-In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Fragen auf den Grund gegangen.
+In der Schweiz leben viele geflüchtete Frauen. Sie beherrschen nicht wirklich eine der Landessprachen und an kulturellen Kenntnissen sowie sozialen Kontakten mangelt es ihnen. Sie sind nicht integriert. Doch was steht zwischen Frauen und ihrer Integration? Und wie lassen sich diese Hürden bewältigen? Wir haben einen Frauenabend für Flüchtlinge besucht und sind diesen Fragen auf den Grund gegangen. *eine Reportage von Azziya Anwar und Hamna Mohamed Nasaj*
 
 {{</lead>}}
 
